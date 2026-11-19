@@ -1,7 +1,7 @@
 <!--
   PATH-2.MD: one teammate's part of the story.
 
-  Put your name after by: below. It's shown at the end of your endings.
+  Put your name after by: Tailer
 
   Your first scene must be called path-2. The crossroads scene in start.md
   links to #path-2, so that's how players get here. Everything else in this
@@ -21,7 +21,7 @@
   Lines inside these comment marks are notes. Players never see them.
 -->
 
-by:
+by: Tailer
 
 ## path-2
 The cliff trail is narrow, and the wind shoves at you like it wants you gone. Far below, waves smash white against the rocks.

@@ -1,7 +1,7 @@
 <!--
   PATH-3.MD: one teammate's part of the story.
 
-  Put your name after by: below. It's shown at the end of your endings.
+  Put your name after by: Tailer
 
   Your first scene must be called path-3. The crossroads scene in start.md
   links to #path-3, so that's how players get here. Everything else in this
@@ -21,7 +21,7 @@
   Lines inside these comment marks are notes. Players never see them.
 -->
 
-by:
+by: Tailer
 
 ## path-3
 The beach is cold grey sand. The tide is out, and the ribs of an old boat poke out of the water near the rocks.

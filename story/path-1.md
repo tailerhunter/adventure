@@ -1,7 +1,7 @@
 <!--
   PATH-1.MD: one teammate's part of the story.
 
-  Put your name after by: Tailer Hunter
+  Put your name after by: Tailer
 
   Your first scene must be called path-1. The crossroads scene in start.md
   links to #path-1, so that's how players get here. Everything else in this
@@ -21,7 +21,7 @@
   Lines inside these comment marks are notes. Players never see them.
 -->
 
-by:
+by: Tailer
 
 ## path-1
 The village is five crooked houses and a bakery. Every window is dark except the bakery's, where warm light spills onto the cobblestones.
