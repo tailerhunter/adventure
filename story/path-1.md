@@ -21,39 +21,38 @@
   Lines inside these comment marks are notes. Players never see them.
 -->
 
-by: Tailer
+by: Tailer Hunter
 
 ## path-1
-The village is five crooked houses and a bakery. Every window is dark except the bakery's, where warm light spills onto the cobblestones.
 
-A little sign on the house next door says KEEPER in faded paint.
+The village market is full of woodland animals shopping for the day.
 
-[Knock on the bakery door](#bakery)
-[Knock on the keeper's house](#old-keeper)
-[Go back to the crossroads](#crossroads)
+You find a small ingredient shop run by Hazel the squirrel.
 
-## bakery
-Rosa the baker opens the door in a cloud of flour. "You're the new keeper? Then you'll want this. The tower stairs are black as a boot at night."
+[Visit Hazel's shop](#shop)
 
-She hands you an old brass lantern.
+[Return to the bakery](#crossroads)
 
-get: lantern
+## shop
 
-"There's pie, if you'd like some," she adds. "Blackberry."
+"Hello, Nibbler! I heard you're reopening your grandmother's bakery tomorrow!"
 
-[Stay for a slice of pie](#pie)
-[Thank her and head back out](#path-1)
+Hazel gives you a bag of fresh flour.
 
-## pie
-The pie is warm, and the chair by the oven is soft. You close your eyes for just a moment.
+"Every good bakery needs flour!"
 
-When you open them, it's morning. The ship made it past the rocks by pure luck, and the harbor master is waiting outside with a very long list of complaints.
+get: flour
 
-THE END
+[Ask Hazel if she has anything else](#honey)
 
-## old-keeper
-An old man opens the door just a crack. "Abernathy," he says. "I kept that light for forty years."
+[Thank Hazel and leave](#crossroads)
 
-"The tower door is locked, and the only key went down with my boat when she sank off the south beach. If you want that light lit, the key is in the wreck."
+## honey
 
-[Go back to the crossroads](#crossroads)
+Hazel hands you a little jar of honey.
+
+"Your grandmother used this in her famous honey rolls!"
+
+get: honey
+
+[Return to the bakery](#crossroads)

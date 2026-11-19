@@ -21,40 +21,36 @@
   Lines inside these comment marks are notes. Players never see them.
 -->
 
-by: Tailer
+by: Tailer Hunter
 
 ## path-4
-Up close, the lighthouse is taller than it looked. Its white paint is peeling, and the great lamp room at the top is completely dark. The door is thick oak with an iron lock.
 
-[Unlock the door](#stairs) if iron key
-[Knock and hope someone answers](#knock)
-[Go back to the crossroads](#crossroads)
+Behind the bakery is Grandma's old flower garden.
 
-## knock
-You knock. The sound echoes up the inside of the tower. Nobody answers.
+The flowers have grown wild since the bakery closed, but there are still plenty of beautiful blossoms.
 
-Of course nobody answers. You're the keeper.
+You think some flowers would make lovely decorations for opening day.
 
-[Step back](#path-4)
+[Pick some flowers](#flowers)
 
-## stairs
-The key turns with a groan. Inside, a spiral staircase winds up into total darkness.
+[Look inside the garden shed](#shed)
 
-[Climb in the dark](#fall)
-[Light your lantern and climb](#lamp-room) if lantern
+[Return to the bakery](#crossroads)
 
-## fall
-Somewhere past step one hundred, your foot finds nothing at all. You sit down hard and decide to wait for morning.
+## flowers
 
-The ship gets past the rocks, just barely. The next day, its captain sends you a very angry letter.
+You carefully pick a small bouquet of colorful flowers.
 
-THE END
+They will look lovely on the bakery counter!
 
-## lamp-room
-At the top, the great lamp sits inside a cage of glass prisms. You open the little door at its base, turn the brass valve, and touch your lantern's flame to the wick.
+get: flowers
 
-The light blooms. The prisms catch it and throw it out across the water in a slow, turning beam.
+[Return to the bakery](#crossroads)
 
-Far out in the fog, a ship's horn answers with two long blasts. *Thank you.*
+## shed
 
-THE END
+You open the little garden shed and find an old watering can and some empty flower pots.
+
+You decide the garden could use some attention, but there's no time to fix it today.
+
+[Return to the bakery](#crossroads)

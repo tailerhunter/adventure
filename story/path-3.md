@@ -21,42 +21,48 @@
   Lines inside these comment marks are notes. Players never see them.
 -->
 
-by: Tailer
+by: Tailer Hunter
 
 ## path-3
-The beach is cold grey sand. The tide is out, and the ribs of an old boat poke out of the water near the rocks.
 
-The name on its side is almost worn away: *Abernathy's Pride*.
+You head into Grandma's old kitchen.
 
-[Wade out to the wreck](#wreck)
-[Build a sandcastle](#sandcastle)
-[Go back to the crossroads](#crossroads)
+Everything is dusty, but the kitchen still feels familiar.
 
-## sandcastle
-It's a very good sandcastle: four towers, a moat, and a flag made from a gull feather. You lose track of time completely.
+You remember watching Grandma bake here when you were little.
 
-When you finally look up, the fog has cleared and the sun is rising.
+[Search the kitchen counter](#counter)
 
-THE END
+[Look through the cupboards](#cupboards)
 
-## wreck
-The water is freezing. You climb into the wreck and find a rusty tin box wedged under a seat. Inside, wrapped in oilcloth, is a heavy iron key.
+[Return to the bakery](#crossroads)
 
-get: iron key
+## counter
 
-The tide is starting to come back in.
+Under an old cloth, you discover Grandma's recipe book!
 
-[Hurry back to shore](#path-3)
-[Keep searching the wreck](#wreck-deeper)
+You open it and find pages filled with cakes, cookies, and pastries.
 
-## wreck-deeper
-You find a bent spoon, half a boot, and a crab who does not want to be found.
+get: recipe-book
 
-When you turn around, the water is up to your chest.
+[Look through the recipes](#recipes)
 
-[Swim for it](#swim)
+[Return to the bakery](#crossroads)
 
-## swim
-You swim, you splutter, and you crawl up onto the sand just as the waves close over the wreck.
+## recipes
 
-[Catch your breath](#path-3)
+You flip through the pages and find Grandma's famous strawberry cake recipe.
+
+It mentions a special patch of strawberries hidden in the forest.
+
+[Return to the kitchen](#path-3)
+
+## cupboards
+
+You open the old cupboards and find a collection of baking supplies.
+
+At the back, you discover a beautiful golden whisk!
+
+get: golden-whisk
+
+[Return to the bakery](#crossroads)

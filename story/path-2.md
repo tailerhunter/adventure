@@ -21,45 +21,48 @@
   Lines inside these comment marks are notes. Players never see them.
 -->
 
-by: Tailer
+by: Tailer Hunter
 
 ## path-2
-The cliff trail is narrow, and the wind shoves at you like it wants you gone. Far below, waves smash white against the rocks.
 
-Halfway along, a dark cave opens into the cliff.
+You follow a small trail into the forest.
 
-[Look over the edge](#cliff-edge)
-[Step into the cave](#cave)
-[Go back to the crossroads](#crossroads)
+After walking for a while, you discover a clearing filled with berry bushes.
 
-## cliff-edge
-You lean out for a better look. The ground at the edge is softer than it looked.
+Grandma used to gather berries here for her baking.
 
-It gives way. You slide, bounce, and land with a splash in a deep pool between the rocks: soaked, furious, and completely unhurt. By the time you've climbed out, the night is over.
+[Look through the berry bushes](#berry-bushes)
 
-THE END
+[Return to the bakery](#crossroads)
 
-## cave
-A few steps in, the daylight gives up. You hear dripping water and, deeper in, something that might be wings.
+## berry-bushes
 
-It's far too dark to go further without a light.
+You notice several different kinds of berries growing nearby.
 
-[Light your lantern and go deeper](#deep-cave) if lantern
-[Back out into the wind](#path-2)
+You remember that Grandma used to have a special way of finding the best strawberries.
 
-## deep-cave
-Your lantern shows painted walls: ships, waves, and a tall tower with a light at the top. Hundreds of gulls watch you from their nests.
+[Check Grandma's recipe book](#special-berries) if recipe-book
 
-In the biggest nest sits a gull wearing a tiny golden crown. She looks at you. You look at her.
+[Pick some ordinary berries](#ordinary-berries)
 
-[Bow to the Gull Queen](#gull-queen)
-[Back away slowly](#path-2)
+[Return to the bakery](#crossroads)
 
-## gull-queen
-The Gull Queen nods once. Every gull in the cave rises together and pours out into the night.
+## special-berries
 
-They circle the dark tower, a thousand white wings shining in the fog, so bright that the ship's captain sees them and steers clear of the rocks.
+You open Grandma's recipe book and find a note about a hidden patch of sweet strawberries.
 
-Nobody in the village will ever believe you.
+Following her instructions, you discover the perfect berries for her famous strawberry cake!
 
-THE END
+get: strawberries
+
+[Return to the bakery](#crossroads)
+
+## ordinary-berries
+
+You pick a basket of fresh blueberries.
+
+They might come in handy for another recipe!
+
+get: blueberries
+
+[Return to the bakery](#crossroads)
