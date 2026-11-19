@@ -1,7 +1,7 @@
 <!--
   PATH-1.MD: one teammate's part of the story.
 
-  Put your name after by: below. It's shown at the end of your endings.
+  Put your name after by: Tailer Hunter
 
   Your first scene must be called path-1. The crossroads scene in start.md
   links to #path-1, so that's how players get here. Everything else in this
